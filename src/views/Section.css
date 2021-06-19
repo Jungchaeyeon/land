@@ -1,0 +1,9 @@
+.section{
+    width:100vw;
+    height:100vh;
+    box-sizing: border-box;
+    background: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
