@@ -31,7 +31,8 @@ function PortfolioPage() {
                         <li className="func">달력 커스텀 </li>
                     </ol>
                     <video className="video" muted autoPlay loop >
-                        <source src="demo.mp4" width="288" height="180" type="video/mp4"/>
+                        <source src="demo.mp4" width="288px" height="180px" type="video/mp4"/>
+                        <source src="demo.mp4" style={{width:"30%"}} type="video/mp4"/>
                     </video>         
                     <a style={{ marginTop: '10px'}} href='https://play.google.com/store/apps/details?id=com.makeus.milliewillie'>플레이스토어 밀리윌리 바로가기</a>
                 </form>
