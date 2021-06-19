@@ -5,7 +5,7 @@ import * as serviceWorker from './serviceWorker';
 import { BrowserRouter } from "react-router-dom";
 
 ReactDOM.render(
-  <BrowserRouter>
+  <BrowserRouter basename="https://jungchaeyeon.github.io">
   <App />
 </BrowserRouter>,
   document.getElementById('root')
