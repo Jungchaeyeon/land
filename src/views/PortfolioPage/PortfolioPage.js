@@ -33,7 +33,7 @@ function PortfolioPage() {
                     <video className="video" style={{ marginTop:'30px', width:'40%', height:'40%'}} muted autoPlay loop >
                         <source src="demo.mp4" type="video/mp4"/>
                     </video>         
-                    <a style={{ marginTop: '30px', color="#b8f1d0"}} href='https://play.google.com/store/apps/details?id=com.makeus.milliewillie'>플레이스토어 밀리윌리 바로가기</a>
+                    <a style={{ marginTop: '30px', color:"#b8f1d0"}} href='https://play.google.com/store/apps/details?id=com.makeus.milliewillie'>플레이스토어 밀리윌리 바로가기</a>
                 </form>
                 <form className="appIntro">
                  <h1 style={{ marginTop:'30px'}}>낙상방지 앱 </h1>
@@ -51,7 +51,7 @@ function PortfolioPage() {
                         <li className="func">fitbit연동</li>
                         <li className="func">로그인, 긴급연락망</li>
                     </ol>
-                    <a style={{ marginTop:'30px', color="#b8f1d0"}} href="https://github.com/Jungchaeyeon/FallPrevention">github 프로젝트 바로가기</a>
+                    <a style={{ marginTop:'30px', color:"#b8f1d0"}} href="https://github.com/Jungchaeyeon/FallPrevention">github 프로젝트 바로가기</a>
                 </form>
                 <form className="appIntro">
                  <h1 style={{ marginTop:'30px'}}>그 외 토이프로젝트</h1>
@@ -69,7 +69,7 @@ function PortfolioPage() {
                         <img src="toy3.png" style={{height:'30%', marginRight:'15px'}}/>
                         <img src="toy2.png" style={{height:'30%',marginRight:'15px'}}/>
                         <br/>
-                        <a style={{ marginTop:'15px', marginBottom: '100px', color="#b8f1d0"}} href="https://github.com/Jungchaeyeon/MakeUs/tree/develop">github 프로젝트 바로가기</a>
+                        <a style={{ marginTop:'15px', marginBottom: '100px', color:"#b8f1d0"}} href="https://github.com/Jungchaeyeon/MakeUs/tree/develop">github 프로젝트 바로가기</a>
                     </section>
                    
                 </form>
