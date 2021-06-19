@@ -10,7 +10,7 @@ function Section() {
         <div className='section'>
         <Switch>
           <Route exact path="/land" component={LandingPage} /> 
-          <Route exact path="/portfolio" component={PortfolioPage} />{/* null - 누구나 접속 가능한 페이지 */}
+          <Route exact path="/land/portfolio" component={PortfolioPage} />{/* null - 누구나 접속 가능한 페이지 */}
         </Switch>
       </div>
     )
