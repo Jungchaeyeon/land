@@ -14,7 +14,7 @@ function PortfolioPage() {
     return (
         <section className="container">
             <form className="milliewillie">
-                <img src="milliewillie_main.png" style={{width:'30%', height:'30%'}} />
+                <img src="milliewillie_main.png" style={{width:'50%', height:'50%'}} />
                 <form className="appIntro">
                     <h1>밀리윌리</h1>
                     <ul style={{ marginTop:'30px'}}>
