@@ -65,11 +65,11 @@ function PortfolioPage() {
                         <li className="func">ViewPager</li>
                         <li className="func">CardView, RecyclerView</li>
                     </ol>
-                    <div style={{ marginTop: "30px"}}>
+                    <section style={{ marginTop: "30px"}}>
                         <img src="toy1.png" style={{height:'30%',marginRight:'15px' }}/>
                         <img src="toy3.png" style={{height:'30%', marginRight:'15px'}}/>
                         <img src="toy2.png" style={{height:'30%',marginRight:'15px'}}/>
-                    </div>
+                    </section>
                     <a style={{ marginTop:'15px', marginBottom: '100px'}} href="https://github.com/Jungchaeyeon/FallPrevention">github 프로젝트 바로가기</a>
                 </form>
                 </form>
