@@ -50,7 +50,7 @@ function LandingPage(props) {
             </form >
             <form className="right">
                 <ul>
-                    <li><a href="/land" data_text="HOME" onClick={toHome}>Home</a></li>
+                    <li><a data_text="HOME" onClick={toHome} style={{ cursor: 'pointer'}}>Home</a></li>
                     <li><a data_text="About" onClick={toAbout} style={{ cursor: 'pointer'}}>About</a></li>
                     <li><a href="/land/portfolio" data_text="Portfolio">Portfolio</a></li>
                 </ul>
