@@ -30,7 +30,7 @@ function PortfolioPage() {
                         <li className="func">로그인, 휴가 관리 </li>
                         <li className="func">달력 커스텀 </li>
                     </ol>
-                    <video className="video" style={{ width:'30%', height:'30%'}} muted autoPlay loop >
+                    <video className="video" style={{ marginTop:'30px', width:'50%', height:'50%'}} muted autoPlay loop >
                         <source src="demo.mp4" type="video/mp4"/>
                     </video>         
                     <a style={{ marginTop: '10px'}} href='https://play.google.com/store/apps/details?id=com.makeus.milliewillie'>플레이스토어 밀리윌리 바로가기</a>
@@ -68,6 +68,7 @@ function PortfolioPage() {
                         <img src="toy1.png" style={{height:'30%',marginRight:'15px' }}/>
                         <img src="toy3.png" style={{height:'30%', marginRight:'15px'}}/>
                         <img src="toy2.png" style={{height:'30%',marginRight:'15px'}}/>
+                        <br/>
                         <a style={{ marginTop:'15px', marginBottom: '100px'}} href="https://github.com/Jungchaeyeon/FallPrevention">github 프로젝트 바로가기</a>
                     </section>
                    
