@@ -30,8 +30,8 @@ function PortfolioPage() {
                         <li className="func">로그인, 휴가 관리 </li>
                         <li className="func">달력 커스텀 </li>
                     </ol>
-                    <video className="video" muted autoPlay loop style={{width:'50%',height:'50%', marginTop:'30px'}}>
-                        <source src="/demo.mp4" type="video/mp4"/>
+                    <video className="video" muted autoPlay loop >
+                        <source src="demo.mp4" type="video/mp4"/>
                     </video>         
                     <a style={{ marginTop: '10px'}} href='https://play.google.com/store/apps/details?id=com.makeus.milliewillie'>플레이스토어 밀리윌리 바로가기</a>
                 </form>
@@ -65,9 +65,9 @@ function PortfolioPage() {
                         <li className="func">CardView, RecyclerView</li>
                     </ol>
                     <div style={{ marginTop: "30px"}}>
-                        <img src="toy1.png" style={{width:'30%',height:'30%',marginRight:'15px' }}/>
-                        <img src="toy3.png" style={{width:'30%',height:'30%', marginRight:'15px'}}/>
-                        <img src="toy2.png" style={{width:'30%',height:'30%',marginRight:'15px'}}/>
+                        <img src="toy1.png" style={{height:'30%',marginRight:'15px' }}/>
+                        <img src="toy3.png" style={{height:'30%', marginRight:'15px'}}/>
+                        <img src="toy2.png" style={{height:'30%',marginRight:'15px'}}/>
                     </div>
                     <a style={{ marginTop:'30px', marginBottom: '100px'}} href="https://github.com/Jungchaeyeon/FallPrevention">github 프로젝트 바로가기</a>
                 </form>
