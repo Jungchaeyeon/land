@@ -30,7 +30,7 @@ function PortfolioPage() {
                         <li className="func">로그인, 휴가 관리 </li>
                         <li className="func">달력 커스텀 </li>
                     </ol>
-                    <video className="video" style={{ marginTop:'30px', width:'50%', height:'50%'}} muted autoPlay loop >
+                    <video className="video" style={{ marginTop:'30px', width:'40%', height:'40%'}} muted autoPlay loop >
                         <source src="demo.mp4" type="video/mp4"/>
                     </video>         
                     <a style={{ marginTop: '10px'}} href='https://play.google.com/store/apps/details?id=com.makeus.milliewillie'>플레이스토어 밀리윌리 바로가기</a>
