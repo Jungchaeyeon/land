@@ -33,7 +33,7 @@ function PortfolioPage() {
                     <video className="video" style={{ marginTop:'30px', width:'40%', height:'40%'}} muted autoPlay loop >
                         <source src="demo.mp4" type="video/mp4"/>
                     </video>         
-                    <a style={{ marginTop: '10px'}} href='https://play.google.com/store/apps/details?id=com.makeus.milliewillie'>플레이스토어 밀리윌리 바로가기</a>
+                    <a style={{ marginTop: '30px'}} href='https://play.google.com/store/apps/details?id=com.makeus.milliewillie'>플레이스토어 밀리윌리 바로가기</a>
                 </form>
                 <form className="appIntro">
                  <h1 style={{ marginTop:'30px'}}>낙상방지 앱 </h1>
