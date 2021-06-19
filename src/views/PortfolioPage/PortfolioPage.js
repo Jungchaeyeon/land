@@ -36,7 +36,7 @@ function PortfolioPage() {
                     <a style={{ marginTop: '30px', color:"#b8f1d0"}} href='https://play.google.com/store/apps/details?id=com.makeus.milliewillie'>플레이스토어 밀리윌리 바로가기</a>
                 </form>
                 <form className="appIntro">
-                 <h1 style={{ marginTop:'30px'}}>낙상방지 앱 </h1>
+                 <h1>낙상방지 앱 </h1>
                 <ul style={{ marginTop:'30px'}}>
                 고령화의 속도는 급격하게 증가하고 있으며, 이에 따라 발생하는 안전사고 중 절반 정도를 차지하는 낙상 사고의 심각성 또한 증가하고 있습니다.
                 <br />
@@ -69,7 +69,7 @@ function PortfolioPage() {
                         <img src="toy3.png" style={{height:'30%', marginRight:'15px'}}/>
                         <img src="toy2.png" style={{height:'30%',marginRight:'15px'}}/>
                         <br/>
-                        <a style={{ marginTop:'15px', marginBottom: '100px', color:"#b8f1d0"}} href="https://github.com/Jungchaeyeon/MakeUs/tree/develop">github 프로젝트 바로가기</a>
+                        <a style={{ marginTop:'30px', marginBottom: '100px', color:"#b8f1d0"}} href="https://github.com/Jungchaeyeon/MakeUs/tree/develop">github 프로젝트 바로가기</a>
                     </section>
                    
                 </form>
