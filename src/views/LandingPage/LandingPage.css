@@ -98,11 +98,11 @@
   0%
   {
     background-position: 0px;
-    background-position-y: 20px;
+    background-position-y: 30px;
   }
   100%
   {
     background-position: 200px;
-    background-position-y: 20px;
+    background-position-y: 30px;
   }
 }
