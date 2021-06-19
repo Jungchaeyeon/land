@@ -15,7 +15,7 @@ function PortfolioPage() {
         <section className="container">
             <form className="milliewillie">
                 <img src="milliewillie_main.png" style={{width:'50%', height:'50%'}} />
-                <form className="appIntro1">
+                <form className="appintro">
                     <h1 style={{ color:"#faf1d0"}}>밀리윌리</h1>
                     <ul style={{ marginTop:'30px'}}>
                         "20대 청춘을 나라에 바치는 국군 장병들의 소중한 시간을 더 유의미하게 만들 수 없을까?"라는
@@ -35,7 +35,7 @@ function PortfolioPage() {
                     </video>         
                     <a style={{ marginTop: '30px', color:"#b8f1d0"}} href='https://play.google.com/store/apps/details?id=com.makeus.milliewillie'>플레이스토어 밀리윌리 바로가기</a>
                 </form>
-                <form className="appIntro2">
+                <form className="appintro">
                  <h1 style={{ color:"#faf1d0"}}>낙상방지 앱 </h1>
                 <ul style={{ marginTop:'30px'}}>
                 고령화의 속도는 급격하게 증가하고 있으며, 이에 따라 발생하는 안전사고 중 절반 정도를 차지하는 낙상 사고의 심각성 또한 증가하고 있습니다.
@@ -53,7 +53,7 @@ function PortfolioPage() {
                     </ol>
                     <a style={{ marginTop:'30px', color:"#b8f1d0"}} href="https://github.com/Jungchaeyeon/FallPrevention">github 프로젝트 바로가기</a>
                 </form>
-                <form className="appIntro3">
+                <form className="appintro">
                  <h1 style={{ color: "#faf1d0", marginTop:'30px'}}>그 외 토이프로젝트</h1>
                 <ul style={{ marginTop:'30px'}}>
                 공공 데이터포털 - 제공 한국관광공사 관광사진 API 활용하여 앱 UI를 구현하였습니다.
