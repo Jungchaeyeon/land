@@ -30,10 +30,10 @@ function PortfolioPage() {
                         <li className="func">로그인, 휴가 관리 </li>
                         <li className="func">달력 커스텀 </li>
                     </ol>
-                    <video className="video" style={{ marginTop:'30px', width:'40%', height:'40%'}} muted autoPlay loop >
+                    <video className="video" style={{ marginTop:'30px', width:'40%', height:'40%'}} muted controls autoPlay loop >
                         <source src="demo.mp4" type="video/mp4"/>
                     </video>         
-                    <a style={{ marginTop: '30px', color:"#b8f1d0"}} href='https://play.google.com/store/apps/details?id=com.makeus.milliewillie'>플레이스토어 밀리윌리 바로가기</a>
+                    <a style={{ marginTop: '30px', color:"#b8f1d0"}} href='https://play.google.com/store/apps/details?id=com.makeusteam.milliewillie'>플레이스토어 밀리윌리 바로가기</a>
                 </form>
                 <form className="appintro">
                  <h1 style={{ color:"#faf1d0"}}>낙상방지 앱 </h1>
