@@ -25,7 +25,7 @@ function PortfolioPage() {
                     <li style={{ marginTop:'30px'}}>아키텍쳐 패턴: MVVM</li>
                     <li style={{ marginTop:'30px'}}>기술스택: almost kotlin, java(libs), databinding, rxAndroid2, constraintlayout, cardview, okhttp3, retrofit2, gson, glide, koin2, viewmodel, livedata</li>
                     <ol style={{ marginTop:'30px'}}>구현 기능: 
-                        <li className="func">일정과 D-day </li>
+                        <li className="func">일정과 D-day </li> 
                         <li className="func">감정일기  </li>
                         <li className="func">로그인, 휴가 관리 </li>
                         <li className="func">달력 커스텀 </li>
